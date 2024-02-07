@@ -7,6 +7,7 @@ function Home() {
     <>
       <Header />
       <h1>Welcome Home</h1>
+      <p>knightsbay</p>
       <Footer />
     </>
   );
